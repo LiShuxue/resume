@@ -4,9 +4,7 @@ Name：Li,Shuxue&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 Phone：15822472510&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email：1149926505@qq.com  
 
-University：Tianjin University of Commerce&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-Major：Computer Science and Technology
+University & Major：Tianjin University of Commerce (Computer Science and Technology)
 
 Experience：7 years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blog：https://lishuxue.site
 
@@ -27,8 +25,8 @@ Experience：7 years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## Honors
 
 #### During College 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2014 First-class Scholarship](https://cdn.lishuxue.site/resume/images/2014yideng.jpeg)、[2015 First-class Scholarship](https://cdn.lishuxue.site/resume/images/2015yideng.jpeg)、[2016 First-class Scholarship](https://cdn.lishuxue.site/resume/images/2016yideng.jpeg)      
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2014 Excellent Student](https://cdn.lishuxue.site/resume/images/2014sanhao.jpeg)、[2015 Excellent Student](https://cdn.lishuxue.site/resume/images/2015sanhao.jpeg)、[2016 Excellent Graduate](https://cdn.lishuxue.site/resume/images/youxiubiye.jpeg)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2014 First-class Scholarship](https://cdn.lishuxue.site/resume/images/2014yideng.jpeg), [2015 First-class Scholarship](https://cdn.lishuxue.site/resume/images/2015yideng.jpeg), [2016 First-class Scholarship](https://cdn.lishuxue.site/resume/images/2016yideng.jpeg)      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2014 Excellent Student](https://cdn.lishuxue.site/resume/images/2014sanhao.jpeg), [2015 Excellent Student](https://cdn.lishuxue.site/resume/images/2015sanhao.jpeg), [2016 Excellent Graduate](https://cdn.lishuxue.site/resume/images/youxiubiye.jpeg)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Campus Outstanding League Member](https://cdn.lishuxue.site/resume/images/youxiutuanyuan.jpeg)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Intermediate Software Designer](https://cdn.lishuxue.site/resume/images/ruanjiansheji.jpeg)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C Language Proficiency Level 2](https://cdn.lishuxue.site/resume/images/c2ji.jpeg)  
@@ -43,8 +41,8 @@ Experience：7 years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Work Experience
 
-2021.5--now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mei Tuan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Front-End-Developer &nbsp;&nbsp;L7  
-2016.4--2021.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Standard Chartered&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Front-End-Developer &nbsp;&nbsp;Grade8A
+2021.5--now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mei Tuan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Front-End-Developer &nbsp;&nbsp;L7  
+2016.4--2021.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Standard Chartered&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Front-End-Developer &nbsp;&nbsp;Grade8A
 
 ## Project Experience
 
@@ -53,7 +51,7 @@ Experience：7 years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Description：**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Providing a comprehensive, flexible, and professional quality measurement and governance service platform for applications.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Full coverage of the development cycle: supporting quality measurement and control in the entire life cycle of the development chain (local submission, PR, release, and online).  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flexible customization: projects can freely select different measurement rules (Lint and non-Lint), control stages and thresholds, etc.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Flexible customization: projects can freely select different measurement rules (Lint and non-Lint), control stages and thresholds, etc.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Open rule market: rules generated by online project problems and other dimensions, are published on the platform and can be freely used by other teams. If not satisfied, they can also create rule sets and publish them to the market for all teams to use.
 
 **Role：** Main Developer
@@ -68,7 +66,7 @@ Experience：7 years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Description：**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As projects evolve, some historical pages or code may no longer be used or maintained. This tool analyzes deprecated code files in the code repository, identifies obsolete pages, low-traffic pages, deprecated files, files referenced but not used, and unused code blocks. The tool presents the results in a report, and drives various teams to delete the identified files.
 
-**Role：** owner
+**Role：** Owner
 
 **Achievements：**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A total of 26 front-end projects were analyzed, resulting in over a thousand deprecated files being identified. Promoted various teams to delete the deprecated files, significantly reducing code build time, package size, and file count, while also improving local start-up time and performance.
@@ -78,7 +76,7 @@ Experience：7 years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Description：**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This SDK collects data on user actions during their operation on the PC side through non-invasive tracking, such as page views (PV), module views (MV), mouse clicks (MC), request sending (RQ), page jumps chain (LK), etc. Based on the collected data, key action chain monitoring can be configured to achieve real-time alarm when a key action is interrupted.
 
-**Role：** owner
+**Role：** Owner
 
 **Achievements：**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A total of 10 important projects have adopted this SDK. It monitors hundreds of key user actions online every day and has detected more than ten cases of user behavior interruptions due to unrobust code. It timely alerts relevant responsible persons to repair or roll back, thereby avoiding the problem from spreading.
