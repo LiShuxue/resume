@@ -73,9 +73,16 @@
 ### 美团优选&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;用户信息采集SDK
 
 **项目描述：**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过无侵入的埋点，定向采集用户在PC端操作过程中的数据，如进入页面PV，页面某模块展示MV，点击按钮MC，发送请求RQ，页面跳转LK等。根据采集到的数据，配置用户的关键动作链路监控，实现关键动作中断时的实时报警。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过无侵入的埋点，定向采集用户在PC端操作过程中的数据，如进入页面PV，页面某模块展示MV，点击按钮MC，发送请求RQ，页面跳转链路LK等。根据采集到的数据，配置用户的关键动作链路监控，实现关键动作中断时的实时报警。
 
 **项目角色：** owner
 
 **项目成果：**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;优选商品终端共有10个重要项目接入该SDK，每天累计监控线上用户几百个关键动作，累计发现十多次由于代码不健壮导致的用户行为中断，及时告警相关责任人，使其修复或回滚，避免了问题的扩大。
+
+## 个人总结
+热爱编程，喜欢探索，追求技术。
+
+较强的学习能力，解决问题能力，以及执行力。工作中不管遇到什么疑难杂症都能很快的且顺利的解决。
+
+如果你想找一个聪明人，那就是我。
