@@ -4,7 +4,9 @@ Name：Li,Shuxue&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 Phone：15822472510&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email：1149926505@qq.com  
 
-University & Major：Tianjin University of Commerce (Computer Science and Technology)
+University：Tianjin University of Commerce 
+
+Major：Computer Science and Technology
 
 Experience：7 years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blog：https://lishuxue.site
 
@@ -25,8 +27,12 @@ Experience：7 years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## Honors
 
 #### During College 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2014 First-class Scholarship](https://cdn.lishuxue.site/resume/images/2014yideng.jpeg), [2015 First-class Scholarship](https://cdn.lishuxue.site/resume/images/2015yideng.jpeg), [2016 First-class Scholarship](https://cdn.lishuxue.site/resume/images/2016yideng.jpeg)      
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2014 Excellent Student](https://cdn.lishuxue.site/resume/images/2014sanhao.jpeg), [2015 Excellent Student](https://cdn.lishuxue.site/resume/images/2015sanhao.jpeg), [2016 Excellent Graduate](https://cdn.lishuxue.site/resume/images/youxiubiye.jpeg)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2014 First-class Scholarship](https://cdn.lishuxue.site/resume/images/2014yideng.jpeg)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2015 First-class Scholarship](https://cdn.lishuxue.site/resume/images/2015yideng.jpeg)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2016 First-class Scholarship](https://cdn.lishuxue.site/resume/images/2016yideng.jpeg)      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2014 Excellent Student](https://cdn.lishuxue.site/resume/images/2014sanhao.jpeg)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2015 Excellent Student](https://cdn.lishuxue.site/resume/images/2015sanhao.jpeg)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2016 Excellent Graduate](https://cdn.lishuxue.site/resume/images/youxiubiye.jpeg)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Campus Outstanding League Member](https://cdn.lishuxue.site/resume/images/youxiutuanyuan.jpeg)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Intermediate Software Designer](https://cdn.lishuxue.site/resume/images/ruanjiansheji.jpeg)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C Language Proficiency Level 2](https://cdn.lishuxue.site/resume/images/c2ji.jpeg)  
