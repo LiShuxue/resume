@@ -91,5 +91,3 @@ Experience：7 years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 I have a passion for coding, enjoy exploring new things, and strive for technical excellence.
 
 I possess strong learning abilities, problem-solving skills, and a great sense of execution. No matter what difficult problems I encounter at work, I am able to solve them quickly and smoothly.
-
-If you are looking for a smart person, then that person is me.
