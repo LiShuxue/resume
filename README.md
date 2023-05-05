@@ -145,7 +145,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;较强的学习能力，解决问题能力，以及执行力。工作中不管遇到什么疑难杂症都能很快的且顺利的解决。也在持续学习新的知识，来确保自己不被行业所落下。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业余时间也开发了自己的[个人站点](https://lishuxue.site)，记录一些平时的学习笔记，分享给大家。对于不知道的也会刨根问题探究一下底层原理，机制。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业余时间也开发了自己的[个人站点](https://lishuxue.site)，记录一些平时的学习笔记，分享给大家。对于不知道的也会刨根问底探究一下底层原理，机制。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在学生和工作阶段，都是比较优秀的，下面列了一些曾经的荣誉:
 
