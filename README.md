@@ -84,7 +84,7 @@
 
 ### 美团优选&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;前端代码质量度量平台
 
-**项目描述：**
+**项目描述：**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. 链路全覆盖：支持在研发链路的全生命周期（本地提交，PR，发布，线上）进行质量度量和卡控。  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. 灵活自定义：项目可自由选用不同的度量规则（Lint 和非 Lint），卡控环节，卡控阈值等。  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. 开放规则市场：根据项目线上问题产生的规则，以及一些其他维度的规则，被发布到平台，其他团队可自由选用。如果不满足，也可以自己创建规则集，发布到市场，供所有团队选用。
