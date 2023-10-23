@@ -32,7 +32,7 @@
 
 7、了解后端 Java，Spring，SpringBoot 等
 
-8、了解 MdongoDB，MySql 等数据库，了解 Sql 语句
+8、了解 MongoDB，MySql 等数据库，了解 Sql 语句
 
 &nbsp;
 
