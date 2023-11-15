@@ -2,16 +2,12 @@
   "name": "resume",
   "license": "MIT",
   "scripts": {
+    "prepare": "husky install",
     "pdf": "electron-pdf ./README.md ./李树雪-前端.pdf -m 0",
     "pdf-en": "electron-pdf ./README-English.md ./LiShuxue-FrontEnd.pdf -m 0"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "yarn pdf && yarn pdf-en && git add 李树雪-前端.pdf && git add LiShuxue-FrontEnd.pdf"
-    }
-  },
   "dependencies": {
-    "electron-pdf": "15.0.0",
-    "husky": "4.3.8"
+    "electron-pdf": "^25.0.0",
+    "husky": "^8.0.3"
   }
 }

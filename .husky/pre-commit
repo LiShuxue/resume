@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+yarn pdf && yarn pdf-en && git add 李树雪-前端.pdf && git add LiShuxue-FrontEnd.pdf
